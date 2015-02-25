@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>qUnit</title>
+	</head>
+	<body>
+	    <div id="qunit"></div>
+	    <div id="qunit-fixture"></div>
+
+        <script type="text/javascript" src="qunit-1.12.0.js"></script>
+        <script type="text/javascript" src="lab1.js"></script>
+        <script type="text/javascript" src="javascriptTesting.js"></script>
+	</body>
+</html>
